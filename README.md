@@ -1,4 +1,4 @@
-# Class-Three
+# Class-Three (Java Version)
 # Class Over View
 ![class 3](https://user-images.githubusercontent.com/48696824/91642277-d9752000-ea4b-11ea-8d3b-321b76f15581.jpg)
 # Topics:
@@ -6,6 +6,9 @@
 02. Spinner
 03. Date Picker Dialogue
 04. Time Picker Dialogue
+
+# Same Project in Kotlin Language
+https://github.com/KhairuI/Kotlin-Android/tree/Class_Three
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
